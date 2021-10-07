@@ -5,5 +5,21 @@
 }
 #project {
   padding-top: 6rem;
-  background-color: #e2edff;
+  background-color: #d3d3d3;
+}
+#contact {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+#cwhatsapp {
+  background-color: #4fce5d;
+}
+#cinstagram {
+  background-color: #dd2a7b;
+}
+#cfacebook {
+  background-color: #3b5998;
+}
+#clinkedin {
+  background-color: #0e76a8;
 }
