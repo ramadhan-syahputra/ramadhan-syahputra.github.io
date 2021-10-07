@@ -23,3 +23,10 @@
 #clinkedin {
   background-color: #0e76a8;
 }
+#form-login {
+  margin-top: 5rem;
+}
+#kotak-form-login {
+  padding: 1rem;
+  border: 1px solid black;
+}
